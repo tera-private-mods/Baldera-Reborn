@@ -1,24 +1,7 @@
 {
     "files": {
-        "index.js": "3185ef39f884a6554aa43e682234050f62e79870caf2fd1b1272ed4fb1e78cb0",
-        "module.json": "b4d09e0edef204307be65f7569a33714afa4497d2495c8358b6043cb1fe62c45",
-        "readme.md": "473c90375d14512dd09d4df242ca719fa918c6bdb5187b5cbf2a605eac679c45"
-    },
-    "defs": {
-        "C_DIALOG": "*",
-        "C_DIALOG_EVENT": [1,63267],
-        "C_GET_IN_SHUTTLE": "*",
-        "C_GET_OUT_SHUTTLE": "*",
-        "C_NPC_CONTACT": 2,
-        "C_PLAYER_LOCATION": ["*","c_player_flying_location"],
-        "S_DIALOG": 4,
-        "S_DIALOG_EVENT": 55588,
-        "S_DUNGEON_EVENT_MESSAGE": 2,
-        "S_LOAD_TOPO": 3,
-        "S_MOVE_SHUTTLE": 1,
-        "S_PLAY_EFFECT": 1,
-        "S_SPAWN_ME": 3,
-        "S_SPAWN_NPC": 12,
-        "S_SPAWN_SHUTTLE": 3
+        "index.js": "5b54f66bfe123e3c9861b60aeb1db6e2bbbc63a74988547d6a9bb9af8daeccc2",
+        "module.json": "42d0035eeaaa3e312adac32e0c694552544e6593526b0472eca6017780047d67",
+        "readme.md": "0ee3494a5988b280442a763ae2586cf9666aa7a703994f9bbeb8cfe66315813e"
     }
 }

@@ -1,11 +1,5 @@
 # Baldera Reborn
-**THIS MOD IS DEPRECATED!** This is because Baldera will be [officially used](https://playtera.co.kr/news/updates/492?page_from=1) soon.
-
-The final update is for **v108** and as of writing, this mod is no longer functional. Even if you were to make it functional, it would be redundant as there are NPCs in Baldera officially now. Thank you for your interest!
-
-[BHS teased an official Baldera update at the end of this video, on the same day as this mod.](https://www.youtube.com/watch?v=RPeTUvFMqKU)
-
-[Baldera is officially being used as of v109!!!](https://playtera.co.kr/news/updates/492?page_from=1)
+Updated version for patch 100.02 support.
 
 **Baldera Reborn** focuses on making the region of Baldera feel a little more lively. This has been accomplished by using the [TERA Toolbox](https://github.com/tera-toolbox/tera-toolbox) modding platform to add clientside NPCs to the game. I've taken dialog from all over the game, and spliced it together to create a personal artistic interpretation of what Baldera _may_ have been in its prime.
 
